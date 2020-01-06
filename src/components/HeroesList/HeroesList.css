@@ -1,0 +1,13 @@
+.heroes-list {
+    margin: 0;
+}
+
+.heroes-list__wrap {
+    display: flex;
+}
+
+.heroes-list__name {
+    display: block;
+    margin-bottom: 16px;
+    font-size: 24px;
+}

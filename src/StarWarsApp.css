@@ -1,0 +1,23 @@
+.star-wars-app {
+  width: 100%;
+}
+
+.star-wars-app__header{
+  font-size: 48px;
+  text-align: center;
+}
+
+.star-wars-app__heroes-link {
+  display: block;
+  font-size: 36px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.star-wars-app .dark-side {
+  color: rgb(139, 28, 28);
+}
+
+.star-wars-app .light-side {
+  color: rgb(136, 226, 241);
+}
